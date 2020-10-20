@@ -1,0 +1,12 @@
+{
+  "name": "sort-projc",
+  "version": "1.0.0",
+  "description": "Sorteador de palavra e tecnologia de projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jhones Bazilio",
+  "license": "ISC"
+}
